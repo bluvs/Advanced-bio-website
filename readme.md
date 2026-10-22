@@ -271,6 +271,6 @@ Do not store private credentials, API keys, or access tokens in `index.html`.
 <p align="center">
   <b>Made for developers who like their profiles a little different.</b>
   <br />
-  Customize it, make it yours, and share it with the world.
+  Customize it, make it yours, and share it with the world. <br>
     Thanks V3nno for making the site which i could upgrade <3
 </p>
